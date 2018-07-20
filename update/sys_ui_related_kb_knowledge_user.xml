@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="kb_knowledge" version="2" view="User">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Knowledge - User" name="kb_knowledge" related_list="NULL" sys_domain="global" view="333c293e0f5b5300c4f44e9ce1050e22">da9e62720f1f5300c4f44e9ce1050e6b</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>m2m_kb_ci.kb_knowledge</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 13:35:11</sys_created_on>
+            <sys_id>d29e62720f1f5300c4f44e9ce1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 13:35:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Knowledge - User" name="kb_knowledge" related_list="NULL" sys_domain="global" view="333c293e0f5b5300c4f44e9ce1050e22">da9e62720f1f5300c4f44e9ce1050e6b</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>kb_feedback.article</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 13:35:11</sys_created_on>
+            <sys_id>d69e62720f1f5300c4f44e9ce1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 13:35:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Knowledge - User" name="kb_knowledge" related_list="NULL" sys_domain="global" view="333c293e0f5b5300c4f44e9ce1050e22">da9e62720f1f5300c4f44e9ce1050e6b</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:8e1ddaa3c30321000096dfdc64d3aebd</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 13:35:11</sys_created_on>
+            <sys_id>da9e62720f1f5300c4f44e9ce1050e6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 13:35:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Knowledge - User" name="kb_knowledge" related_list="NULL" sys_domain="global" view="333c293e0f5b5300c4f44e9ce1050e22">da9e62720f1f5300c4f44e9ce1050e6b</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:fb55c83adb132200a042f278f0b8f562</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 13:35:11</sys_created_on>
+            <sys_id>529e2e720f1f5300c4f44e9ce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 13:35:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Knowledge - User" name="kb_knowledge" related_list="NULL" sys_domain="global" view="333c293e0f5b5300c4f44e9ce1050e22">da9e62720f1f5300c4f44e9ce1050e6b</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>REL:801c3ada67323200d358bb2d07415a17</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 13:35:11</sys_created_on>
+            <sys_id>569e2e720f1f5300c4f44e9ce1050e36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 13:35:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Knowledge - User</calculated_name>
+            <filter/>
+            <name>kb_knowledge</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-18 13:35:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>da9e62720f1f5300c4f44e9ce1050e6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Knowledge - User</sys_name>
+            <sys_package display_value="NeedIt" source="x_151057_needit">4649b5dd0f931300c4f44e9ce1050eaa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">4649b5dd0f931300c4f44e9ce1050eaa</sys_scope>
+            <sys_update_name>sys_ui_related_kb_knowledge_User</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-18 13:35:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="User" name="User">333c293e0f5b5300c4f44e9ce1050e22</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
