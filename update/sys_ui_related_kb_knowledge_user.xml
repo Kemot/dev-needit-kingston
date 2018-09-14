@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_related sys_domain="global" table="kb_knowledge" version="2" view="User">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
